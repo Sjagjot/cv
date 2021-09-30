@@ -1,0 +1,138 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: white;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #082032;
+  }
+h4{
+  font-weight: 400;
+}
+h3{
+  font-weight: 300;
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 2;
+}
+
+
+/* headings */
+.main-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #082032;
+}
+
+/* universal right column */
+.right-col{
+  padding-left:90px;
+}
+
+/* intro section */
+#intro{
+/* background-color: #082032; */
+background-color: #3E2C41;
+
+color:white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.title-image{
+  width:100%;
+}
+.title-column-1{
+  border-width: 2px;
+  border-style: solid;
+  border-color: gray;
+  text-align: center;
+  padding:0;
+  padding-top: 20%;
+}
+
+.title-column-2{
+    padding: 0;
+}
+.title-text{
+font-family: 'Bad Script', cursive;
+font-size: 5rem;
+}
+.title-para{
+  color: gray;
+  font-family: 'Bad Script', cursive;
+  font-size: 1.5rem;
+  text-align: right;
+  margin-right: 30px;
+}
+
+/* navbar */
+
+.brand-name{
+  font-family: 'Allison', cursive;
+  font-size: 3rem;
+  letter-spacing: 6px;
+}
+.navbar{
+  margin-bottom: 20px;
+}
+.nav-link{
+  font-size: 20px;
+  opacity: 0.7;
+}
+
+/* education */
+#education{
+  background-color: #E7E0C9;
+}
+.ufv-image{
+  width: 100%;
+  border-radius: 5%;
+}
+
+.fa-map-pin{
+  color:green;
+}
+
+/* experience */
+#experience{
+  background-color: #C1CFC0;
+}
+
+/* skill */
+#skills{
+    background-color:#E7E0C9;
+}
+.skill-box{
+  padding:2%;
+  text-align:center;
+  font-size: 100px;
+}
+.skill-box p{
+  font-size:1.5rem;
+}
+.skills-inner{
+  padding: 10% 0;
+}
+.fa-angle-right, .fa-angle-left {
+  color: black;
+  font-size:2rem;
+}
+/* footer */
+#footer{
+  background-color: #C1CFC0;
+  text-align: center;
+  padding:10%;
+}
+.social-icon {
+  margin: 20px 10px;
+}
